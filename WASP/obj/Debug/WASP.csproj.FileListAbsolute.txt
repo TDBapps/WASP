@@ -1,0 +1,8 @@
+c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\bin\Debug\WASP.exe.config
+c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\bin\Debug\WASP.exe
+c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\bin\Debug\WASP.pdb
+c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\obj\Debug\WASP.csprojResolveAssemblyReference.cache
+c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\obj\Debug\WASP.WASP1.resources
+c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\obj\Debug\WASP.csproj.GenerateResource.Cache
+c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\obj\Debug\WASP.exe
+c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\obj\Debug\WASP.pdb
