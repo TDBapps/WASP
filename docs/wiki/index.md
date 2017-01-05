@@ -1,4 +1,4 @@
-![wasp-img](TDBapps.github.io/imgs/WASP.ico)
+![wasp-img](TDBapps.github.io/img/WASP.ico)
 
 # WASP Wiki
 
