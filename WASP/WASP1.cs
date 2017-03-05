@@ -28,12 +28,12 @@ namespace WASP
             string fileWASP = file;
             if(file == "null")
             {
-                MessageBox.Show("No file loaded.", "WASP");
+                MessageBox.Show("No file loaded.", "WASP", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 return fileWASP;
             }
             else
             {
-                MessageBox.Show("File Loaded: " + fileWASP, "WASP");
+                MessageBox.Show("File Loaded: " + fileWASP + "!", "WASP", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 return "null";
             }
         }

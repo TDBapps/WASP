@@ -9,3 +9,4 @@ C:\Users\Henry\Documents\Visual Studio 2015\Projects\WASP\WASP\obj\Debug\WASP.cs
 C:\Users\Henry\Documents\Visual Studio 2015\Projects\WASP\WASP\obj\Debug\WASP.BPKMan.resources
 C:\Users\Henry\Documents\Visual Studio 2015\Projects\WASP\WASP\obj\Debug\WASP.Properties.Resources.resources
 C:\Users\Henry\Documents\Visual Studio 2015\Projects\WASP\WASP\obj\Debug\WASP.BPKMan1.resources
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\WASP\WASP\obj\Debug\WASP.BPKMan4.resources

@@ -34,6 +34,7 @@ namespace WASP
             {
                 button2.Enabled = false;
                 button3.Enabled = false;
+                button7.Enabled = false;
             }
             
         }
@@ -41,6 +42,32 @@ namespace WASP
         private void button1_Click(object sender, EventArgs e)
         {
             new BPKMan1().Show();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            new BPKMan4().Show();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            if (Global.bpk == "null")
+            {
+                button2.Enabled = false;
+                button3.Enabled = false;
+                button7.Enabled = false;
+            }
+            else
+            {
+                button2.Enabled = true;
+                button3.Enabled = true;
+                button7.Enabled = true;
+            }
         }
     }
 }
