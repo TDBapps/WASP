@@ -17,22 +17,51 @@ namespace WASP
             InitializeComponent();
         }
 
+
         private void button1_Click(object sender, EventArgs e)
         {
             System.Environment.Exit(0);
         }
 
-        public static void loadWASP(string file)
+        public static string loadWASP(string file)
         {
             string fileWASP = file;
             if(file == "null")
             {
-                MessageBox.Show("No file loaded.", "WASP");
+                MessageBox.Show("No file loaded.", "WASP", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                return fileWASP;
             }
             else
             {
-                MessageBox.Show("File Loaded: " + fileWASP, "WASP");
+                MessageBox.Show("File Loaded: " + fileWASP + "!", "WASP", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                return "null";
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if(Global.bpk != "null")
+            {
+                MessageBox.Show("File Loaded: " + Global.bpk, "WASP");
+            }
+            else
+            {
+                MessageBox.Show("No file loaded.", "WASP");
+            }
+        }
+
+        private void WASP1_Load(object sender, EventArgs e)
+        {
+            if(Global.bpk != "null")
+            {
+                this.Text = ("WASP: " + Global.bpk);
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            new BPKMan().Show();
+            this.Close();
         }
     }
 }

@@ -1,8 +1,14 @@
 c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\bin\Debug\WASP.exe.config
 c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\bin\Debug\WASP.exe
 c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\bin\Debug\WASP.pdb
-c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\obj\Debug\WASP.csprojResolveAssemblyReference.cache
 c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\obj\Debug\WASP.WASP1.resources
 c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\obj\Debug\WASP.csproj.GenerateResource.Cache
 c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\obj\Debug\WASP.exe
 c:\users\henry\documents\visual studio 2015\Projects\WASP\WASP\obj\Debug\WASP.pdb
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\WASP\WASP\obj\Debug\WASP.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\WASP\WASP\obj\Debug\WASP.BPKMan.resources
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\WASP\WASP\obj\Debug\WASP.Properties.Resources.resources
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\WASP\WASP\obj\Debug\WASP.BPKMan1.resources
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\WASP\WASP\obj\Debug\WASP.BPKMan4.resources
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\WASP\WASP\bin\Debug\Staccato.dll
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\WASP\WASP\bin\Debug\Staccato.pdb
