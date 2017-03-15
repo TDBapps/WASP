@@ -14,7 +14,11 @@ namespace WASP
         static void Main(string[] args)
         {
             Console.Title = "WASP";
-            if(args.Length != -1)
+            if(args.Length == -1)
+            {
+                throw new IndexOutOfRangeException("!!ERROR!! Please open WASP with a file. Use any file called 'WASP', or any file with the extension '.bpk'.");
+            }
+            try
             {
                 string Extension = Path.GetExtension(args[0]);
                 string fileName = Path.GetFileNameWithoutExtension(args[0]);
@@ -44,6 +48,13 @@ namespace WASP
                     new WASP1().Show();
                     Application.Run();
                 }
+            }
+            catch(IndexOutOfRangeException e)
+            {
+                Global.bpk = "null";
+                Global.bpath = "null";
+                new WASP1().Show();
+                Application.Run();
             }
         }
     }
